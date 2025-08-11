@@ -2,9 +2,9 @@
 
 /*
 * @wordpress-plugin
-* Plugin Name: AVDBAPI Crawler
+* Plugin Name: Crawl AVDBapi Vidmov
 * Plugin URI: https://avdbapi.com/
-* Description: Collect movies from AVDBAPI - Compatibility Theme wp-script
+* Description: crawl-avdbapi-vidmov
 * Version: 2.3.0
 * Requires PHP: 7.0^
 * Author: Avdbapi
